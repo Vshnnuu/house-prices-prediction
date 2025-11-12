@@ -5,7 +5,7 @@ This project predicts house sale prices using data from Kaggle’s *House Prices
 ### 🔍 What I did
 - Cleaned and engineered domain-specific features (e.g., total square footage, age, quality scores).
 - Trained and blended Ridge, Lasso, XGBoost, and LightGBM models.
-- Achieved **~12% relative error** on validation.
+- Achieved **`~12% relative error`** on validation.
 - Currently improving feature engineering to **push error below 12%**.
 
 ### 📁 Repo contents
