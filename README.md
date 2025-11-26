@@ -18,7 +18,7 @@ This project predicts house sale prices using data from Kaggle’s *House Prices
 - Achieved a Kaggle Leaderboard score of **0.12096** using the final stacked submission.
 
 ### 📁 Repo contents
-- `house-price-prediction-v2.ipynb` — full Kaggle notebook (code)
+- `house-price-prediction-v2-recovered.ipynb` — full Kaggle notebook (code)
 - `house-price-prediction-v2.pdf` — rendered notebook in PDF
 - `README.md` — this overview
 
